@@ -1,1 +1,1 @@
-script on commit test 1 2
+script on commit test 1 2 3
